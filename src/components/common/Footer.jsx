@@ -116,7 +116,7 @@ export default function Footer() {
             <h3 className="font-bold text-lg">Contact</h3>
             <ul className="mt-4 space-y-3 text-sm text-white/70">
               <li>📍 Indore, Madhya Pradesh</li>
-              <li>📞 +91 98765 43210</li>
+              <li>📞 +91 81023 32569</li>
               <li>✉️ support@traveland.com</li>
             </ul>
 
